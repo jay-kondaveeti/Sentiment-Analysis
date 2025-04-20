@@ -1,1 +1,2 @@
-# Sentiment-Analysis
+# Sentiment-Analyzer
+Sentiment analysis using NLP.
